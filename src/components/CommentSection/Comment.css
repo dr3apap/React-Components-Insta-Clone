@@ -1,4 +1,4 @@
-.comment-text {
+/* .comment-text {
   text-align: left;
   padding: 2px;
   margin-left: 4px;
@@ -27,20 +27,23 @@
   margin-left: 5px;
   color: black;
   font-weight: bold;
-}
+} */
 
-/* .comment-text {
+.comment-text {
   text-align: left;
   padding: 2px;
   margin-left: 4px;
 }
+
 .comment {
   font-size: 12px;
 }
-.comment-form  {
+
+.comment-form {
   margin: 10px 0;
   width: 95%;
 }
+
 .comment-form input {
   width: 100%;
   font-size: 12px;
@@ -49,9 +52,10 @@
   border-top: 1px solid #efefef;
   color: #999;
 }
+
 .user {
   font-size: 12px;
   margin-left: 5px;
   color: black;
   font-weight: bold;
-} */
+}
